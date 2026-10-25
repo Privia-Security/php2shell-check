@@ -40,7 +40,7 @@ PHP released fixes on 21 October 2026 for all four supported branches. Anything 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-org>/php2shell-check.git
+git clone https://github.com/Privia-Security/php2shell-check.git
 cd php2shell-check
 ```
 
